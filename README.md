@@ -41,7 +41,7 @@ UCI machine learning repository, https://archive.ics.uci.edu/ml/machine-learning
 This dataset is related to red variants of the Portuguese "Vinho Verde" wine. The dataset describes the amount of various chemicals present in wine and their effect on it's quality. The datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are more normal wines than excellent or poor ones). Our task is to predict the quality of wine using the given data.
 
 # Objective
-Understand the Dataset & cleanup (if required).
-Explore the dataset and perform an EDA.
-Try to build a model to predict Wine Type(red or white)
-Try to build a model to predict Wine Quality(low, medium, or high)
+- Understand the Dataset & cleanup (if required).
+- Explore the dataset and perform an EDA.
+- Try to build a model to predict Wine Type(red or white)
+- Try to build a model to predict Wine Quality(low, medium, or high)
